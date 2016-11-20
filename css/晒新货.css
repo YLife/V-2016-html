@@ -1,0 +1,44 @@
+/* 公共样式 */
+.second1{
+	margin-right:20px;
+	}
+.second2{
+	border-bottom:1px solid #920100;
+	height:30px;
+	}
+.second3{
+	margin:10px 0px;
+	margin-bottom:5px;
+	}
+.second3 input{
+	margin:0px;
+	}
+/*.catsForm{
+	.catsForm input[type="redio"]
+	}input标签里面的redio*/
+.second4{
+	padding:9px 30px;
+	background:url(../images/img03.png) no-repeat left;
+	border-bottom:1px solid #D7D7D7;
+	}
+
+
+.second6ip li{
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	width:33.333333322222222222%;
+	}
+.second6ip img{
+	border:1px solid #D7D7D7;
+	width:100%;/*防止图片超出边界*/
+	}
+.second6ip{
+	margin:0px -10px;
+	}
+.second7{
+	margin-top:20px;
+	}
+.second0{
+	margin-top:3px;
+	}

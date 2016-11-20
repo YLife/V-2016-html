@@ -1,0 +1,117 @@
+/* CSS Document */
+.left1{
+	border:1px solid #D7D7D7;
+	width:510px;
+	}
+.left2 {
+	border-bottom:2px solid #D7D7D7;
+	margin:10px 30px;
+	}
+.left3 li{
+	float:left;
+	padding:5px 10px;
+	}
+.left4{
+	background:url(../images/login/current.gif) no-repeat;
+	margin-right:10px;
+	}
+.left5{
+	background:url(../images/login/gray.gif) no-repeat;
+	}
+.left6{
+	margin:10px 30px 0px 30px;
+	border-bottom:2px solid #6B0218;
+	}
+.left7{
+	margin:0px 30px;
+	background-color:#FAFAFA;
+	}
+.left8{
+	margin:0px 60px 15px 60px;
+	padding-top:30px;
+	}
+.left9{
+	padding-left:12px;
+	}
+.left10{
+	margin:0px 60px;
+	padding-bottom:30px;
+	}
+.left11{
+	background:url(../images/login/btn_bg.gif) no-repeat;
+	}
+.left10 li{
+	padding:4px 25px 5px 25px;
+	}
+.left12{
+	margin:0px 30px;
+	padding:15px 0px;
+	background:url(../images/account_qq.gif) no-repeat center;
+	background-position:140px 10px;
+	}
+.left13{
+	margin:10px 30px;
+	}
+.left14{
+	text-indent:22px;
+	line-height:20px;
+	}
+.left15{
+	padding:0px 9px 20px 20px;
+	}
+.right1{
+	border:1px solid #D7D7D7;
+	padding:10px 20px;
+	width:400px;
+	}
+.right2{
+	border-bottom:2px solid #D7D7D7;
+	}
+.right3{
+	width:180px;
+	margin-left:5px;
+	}
+.right3 input{
+	width:180px;
+	}
+.right4{
+	padding-left:40px;
+	margin-top:20px;
+	}
+.right5{
+	padding-top:5px;
+	}
+.right6{
+	margin-top:10px;
+	padding-left:98px;
+	}
+.right7{
+	margin-top:10px;
+	padding-left:50px;
+	}
+.right8{
+	width:70px;
+	}
+.right9{
+	width:180px;
+	}
+.right10{
+	margin-top:10px;
+	padding-left:87px;
+	}
+.right11{
+	margin-left:5px;
+	}
+.right12{
+	margin:20px 20px 20px 140px;
+	}
+.right13{
+	font-weight:bold;
+	padding:5px 10px 6px 8px;
+	margin-top:10px;
+	background:url(../images/login/btn_bg_l.gif) no-repeat;
+	}
+.right13 a{
+	font-size:14px;
+    color:#FFF;
+	}

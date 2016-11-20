@@ -1,0 +1,50 @@
+/* 公共样式 */
+.best{
+	font-size:12px;
+	text-indent:6px;
+	background:#F0F6F6;
+	line-height:25px;
+	border-bottom:1px solid #D7D7D7;
+
+    }
+.best1{
+	margin-left:10px;
+	border:1px solid #D7D7D7;} 
+.best1 li{
+	list-style-type:square;
+	list-style-position:inside;
+	padding:6px 5px;
+	width:206px;
+	}
+.beauty{
+	margin:8px 0px 0px 10px;
+	}
+.hot-border{
+	border:1px solid #D7D7D7;
+	} 
+.category li{
+	padding:8px 20PX;
+	}
+.category strong{
+	padding:0px 30px 0px 0px;
+	}
+.even{
+	background-color:#F0F6F6;
+	}
+.women{
+	background:url(../images/index/h1_women.gif) no-repeat center;
+	margin:10px 0px 5px 0px;
+	}
+.women div{
+	line-height:40px;
+	}
+.cheap{
+	border:1px solid #D7D7D7;
+	margin-bottom:6px;
+	}
+.cheap1{
+	border-bottom:1px solid #D7D7D7;
+	}
+.cheap li{
+	padding:12px;
+	}

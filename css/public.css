@@ -1,0 +1,105 @@
+/* 公共样式 */
+.container{
+	width:981px;/*容器宽度*/
+	margin:0 auto;/*容器居中*/
+}
+body,a{
+	font-size:12px;
+	color:#333;
+	text-decoration:none;/*去掉超链接默认的下划线*/
+	
+}
+body{
+	margin:0;/*去掉body默认8像素的外边距*/
+}
+
+.color1,.color1 *{/*颜色风格一*/
+    color:#cf4566 !important;  	
+}
+.left{
+	float:left;
+	}
+.right{
+	float:right;
+}
+.clearfix:after{/*应用于浮动元素的父级，目的是自动扩展父级高度*/
+	content:"";
+	display:block;
+	clear:both;
+}
+.top{
+    width:100%;
+	background-color:#f0f6f6;
+    height:30px;
+    line-height:30px;
+}
+.search-input{
+	width:303px;
+	height:31px;
+	border:none;
+	padding:0px;
+	background-image:url(../images/search_input.gif);
+	outline:none;/*消除轮廓*/
+	line-height:31px;
+	text-indent:8px;
+}
+input,select{
+	vertical-align:middle;/*同一行的表单元素垂直居中对齐*/
+}
+ul{
+	margin:0;/*去掉ul默认的外边距*/
+	padding:0;/*去掉ul默认的内边距*/
+	list-style-type:none;
+}
+.nav li{
+	float:left;
+}
+.nav a{
+	display:block;/*块级，以扩大a标签的区域*/
+	line-height:37px;
+	padding:0px 20px;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+}
+.nav{
+	background:url(../images/nav_bg.gif) repeat-x;
+	border-radius:4px;
+}
+.nav a:hover{
+	color:#F30;
+	}
+.pop{
+	background-color:#f4f4f4;
+	padding:10px;
+	border:1px solid #ccc;
+	border-radius:4px;
+	margin-top:5px;
+	}
+hr{/*美化线条*/
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:1px solid #ccc;
+}
+.pop a{
+	padding:0px 9px;
+}
+.footer1{
+	background-color:#e8e8ea;
+	padding:20px 0px;
+	line-height:1.6em;
+	margin-top:5px;	
+}
+.footer1>div{/*footer下面的所有div*/
+	width:20%;
+	height:76px;
+	padding:0px 40px;
+	box-sizing:border-box;
+	background:url(../images/btm_line.gif) repeat-y right top;
+} 
+.footer2{
+	text-align:center;
+}
+
+
